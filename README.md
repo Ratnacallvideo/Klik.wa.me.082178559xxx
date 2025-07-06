@@ -8,7 +8,7 @@
   <!-- Open Graph Facebook -->
   <meta property="og:title" content="Ratna Call Video 💖" />
   <meta property="og:description" content="Klik OPEN untuk video call bareng Ratna 😘" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/ratnacallvideo/Ratna.call.video/main/https://i.imgur.com/TjNSx1k.jpeg" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/ratnacallvideo/Ratna.call.video/main/IMG-20250630-WA0003.jpg" />
   <meta property="og:image:width" content="1023" />
   <meta property="og:image:height" content="1600" />
   <meta property="og:url" content="https://ratnacallvideo.github.io/Ratna.call.video/" />
